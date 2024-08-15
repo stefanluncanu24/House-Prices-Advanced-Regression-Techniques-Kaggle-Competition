@@ -1,0 +1,6 @@
+code.ipynb - the final code used for the submission
+submission.csv -  the output of the code
+test.csv - the unlabeled "finaltest" data used for determining our team score
+train.csv - the labeled dataset used for building the model
+plots.rar - an archive containing all the label(feature) plots
+data analysis.ipynb - code used for the analysis of the data
