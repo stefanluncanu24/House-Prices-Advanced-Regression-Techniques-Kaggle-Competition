@@ -31,7 +31,7 @@ The dataset used is `train.csv` for training and `test.csv` for predictions. The
 
 ## Usage
 
-Run the Jupyter notebook `house_price_prediction.ipynb` to execute the code:
+Run the Jupyter notebook `code.ipynb.ipynb` to execute the code:
 - Load the dataset.
 - Perform preprocessing and cleaning.
 - Visualize the data.
