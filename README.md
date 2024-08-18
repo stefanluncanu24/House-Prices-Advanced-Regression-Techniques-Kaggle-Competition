@@ -50,7 +50,7 @@ Run the Jupyter notebook `code.ipynb.ipynb` to execute the code:
 ## Results
 
 The trained XGBoost model predicts house prices based on the input features. The performance is evaluated using Mean Squared Error (MSE), and results are saved for submission to the Kaggle competition.
-![image](https://github.com/user-attachments/assets/a9c6a4a9-f73f-4724-9c4d-28a097d71736)
+![image](https://github.com/user-attachments/assets/28806118-8d56-450c-b468-4097dd693d8d)
 
 ## Contributing
 
