@@ -17,7 +17,7 @@ The project involves several key phases:
 5. **Model Evaluation**: Assessing the model's performance.
 6. **Prediction and Submission**: Making predictions and preparing submissions for the competition.
 
-## Dependencies
+## Libraries
 
 This project requires the following Python libraries:
 - Pandas
