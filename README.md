@@ -1,6 +1,8 @@
 # House Prices - Advanced Regression Techniques Competition
 Our team: me, @JonahK12 and @SLvr-Srfrn competed in the House Prices - Advanced Regression Techniques challenge on Kaggle. It was our first competition, and as of 16 August 2024, we're thrilled to be in the top 12% for predicting house prices.
 
+![image](https://github.com/user-attachments/assets/28806118-8d56-450c-b468-4097dd693d8d)
+
 # House Prices Prediction
 
 This repository contains the code for predicting house prices using machine learning techniques, with the dataset sourced from a popular Kaggle competition (https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques).
@@ -50,8 +52,6 @@ Run the Jupyter notebook `code.ipynb.ipynb` to execute the code:
 ## Results
 
 The trained XGBoost model predicts house prices based on the input features. The performance is evaluated using Mean Squared Error (MSE), and results are saved for submission to the Kaggle competition.
-
-![image](https://github.com/user-attachments/assets/28806118-8d56-450c-b468-4097dd693d8d)
 
 ## Contributing
 
